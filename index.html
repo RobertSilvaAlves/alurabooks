@@ -12,6 +12,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+        rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
@@ -44,10 +46,41 @@
                 </li>
             </ul>
             <img src="imagens/Logo.svg" alt="Logo da Alura Book" class="container__imagem">
+            <h1 class="container__titulo"><b class="container__titulo--negrito">Alura</b>books</h1>
         </div>
 
+        <ul class="opcoes">
+            <input type="checkbox" name="opcoes-menu" id="iopcoes-menu" class="opcoes__botao">
+            <label for="iopcoes-menu">
+                <li class="opcoes__item">Categorias</li>
+            </label>
+
+            <ul class="lista-menu">
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">Programação</a>
+                </li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">Front-End</a>
+                </li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">Infraestrutura</a>
+                </li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">Business</a>
+                </li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">Design & UX</a>
+                </li>
+            </ul>
+
+            <li class="opcoes__item"><a href="#" class="opcoes__link">Favoritos</a></li>
+            <li class="opcoes__item"><a href="#" class="opcoes__link">Minha estante</a></li>
+
+        </ul>
+
         <div class="container">
-            <a href="#"><img src="imagens/Favoritos.svg" alt="Imagem de Favoritos" class="container__imagem"></a>
+            <a href="#"><img src="imagens/Favoritos.svg" alt="Imagem de Favoritos"
+                    class="container__imagem container__imagem-transparente"></a>
             <a href="#"><img src="imagens/Compras.svg" alt="Sacola de compras" class="container__imagem"></a>
             <a href="#"><img src="imagens/Usuario.svg" alt="Logo Usuario" class="container__imagem"></a>
         </div>
@@ -106,15 +139,15 @@
             </div>
 
             <!-- Segunda linha -->
-             <div class="card__botoes">
+            <div class="card__botoes">
                 <!-- Primeira coluna -->
                 <ul class="botoes">
                     <li class="botoes__item"><img src="imagens/Favoritos.svg" alt="Favoritar Livro"></li>
                     <li class="botoes__item"><img src="imagens/Compras.svg" alt="Adicionar ao carrinho de compras"></li>
                 </ul>
                 <!-- Segunda coluna-->
-                 <a href="#" class="botoes__ancora">Saiba mais</a>
-             </div>
+                <a href="#" class="botoes__ancora">Saiba mais</a>
+            </div>
         </div>
 
         <div>
@@ -163,26 +196,27 @@
                     <img src="imagens/Estrelinhas.svg" alt="Estrelinhas">
                     <h3 class="descricao__titulo">Autora do Mês</h3>
                     <h2 class="descricao__titulo-livro">Juliana Agarikov</h2>
-                    <p class="descricao__texto">Analista de sistemas e escritora, Juliana é especialista em Front-End. </p>
+                    <p class="descricao__texto">Analista de sistemas e escritora, Juliana é especialista em Front-End.
+                    </p>
                 </div>
                 <!--Segunda coluna -->
                 <img src="imagens/Escritora.svg" alt="Imagem da logo da Angular" class="descricao__imagem">
             </div>
 
             <!-- Segunda linha -->
-             <div class="card__botoes">
+            <div class="card__botoes">
                 <!-- Primeira coluna -->
                 <ul class="botoes">
                     <li class="botoes__item"><img src="imagens/Favoritos.svg" alt="Favoritar Livro"></li>
                     <li class="botoes__item"><img src="imagens/Compras.svg" alt="Adicionar ao carrinho de compras"></li>
                 </ul>
                 <!-- Segunda coluna-->
-                 <a href="#" class="botoes__ancora">Saiba mais</a>
-             </div>
+                <a href="#" class="botoes__ancora">Saiba mais</a>
+            </div>
         </div>
 
         <div>
-            
+
         </div>
 
     </section>
@@ -219,8 +253,10 @@
     </section>
 
     <section class="contato">
-        <h2 class="contato__titulo">Fique por dentro das novidades!</h2>
-        <p class="contato__texto">Atualizações de e-books, novos livros, promoções e outros.</p>
+        <div class="contato__descricao">
+            <h2 class="contato__titulo">Fique por dentro das novidades!</h2>
+            <p class="contato__texto">Atualizações de e-books, novos livros, promoções e outros.</p>
+        </div>
 
         <input type="email" name="email" id="iemail" placeholder="Cadastre seu e-mail" class="contato__email">
     </section>
