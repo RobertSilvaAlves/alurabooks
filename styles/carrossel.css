@@ -105,8 +105,50 @@
         top: 60%;
     }
 
-    .card{
+    .card {
         width: 40%;
         margin: 3em auto;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .carrossel__container {
+        display: flex;
+        margin: 20px 20vw 3em 21vw;
+        text-align: center;
+    }
+
+    .swiper-pagination {
+        margin: 1em 0;
+    }
+
+    .swiper {
+        width: 50%;
+    }
+
+    .card {
+        margin: 1em auto;
+        
+    }
+
+    .descricao__titulo {
+        font-size: 32px;
+    }
+
+    .descricao__texto {
+        font-size: 16px;
+    }
+
+    .descricao {
+        margin-right: 1em;
+    }
+
+    .card {
+        width: 60%;
+        margin-left: 3em;
+    }
+
+    .descricao__titulo-livro {
+        margin: 1em 0;
     }
 }
