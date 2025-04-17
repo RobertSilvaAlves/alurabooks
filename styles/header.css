@@ -105,9 +105,20 @@
         text-transform: uppercase;
     }
 
+    .opcoes__item:hover{
+        color: var(--branco);
+        background: var(--azul-degrade);
+    }
+
+    .opcoes__link:hover{
+        color: var(--branco);
+    }
+
     .opcoes__link {
         text-decoration: none;
         color: var(--preto);
+        padding: 1.8em 2em;
+        margin: -27px;
     }
 
     .container__imagem-transparente,
