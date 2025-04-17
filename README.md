@@ -33,20 +33,13 @@ Durante o desenvolvimento deste projeto, foram colocados em prática diversos co
 
 ---
 
-## 📸 Demonstração
+## Demonstração
 
-### Versão Mobile (428px)
-📷 _Adicione aqui a imagem da versão mobile_  
-![Versão Mobile](./caminho/screenshot-mobile.png)
+### 📷 IMAGENS
+   
+![Design sem nome](https://github.com/user-attachments/assets/477aac4a-cde0-4ab0-aae8-f3a73d1c91f1)
 
-### Versão Tablet (1024px)
-📷 _Adicione aqui a imagem da versão para tablet_  
-![Versão Tablet](./caminho/screenshot-tablet.png)
-
-### Versão Desktop (1728px)
-📷 _Adicione aqui a imagem da versão desktop_  
-![Versão Desktop](./caminho/screenshot-desktop.png)
-
+## 🌐 Acesse o link ➡ [https://robertsilvaalves.github.io/alurabooks/](https://robertsilvaalves.github.io/alurabooks/)
 ---
 
 ## 🛠 Tecnologias utilizadas
@@ -82,7 +75,7 @@ Este projeto está licenciado sob a licença MIT.
 
 ---
 
-## 🙋‍♀️ Autora
+## 🙋🏻‍♂️ Robert Alves
 
-Feito com 💙 durante os estudos na Alura.  
-[Seu nome aqui ou link para portfólio/github opcional]
+Feito com dedicação durante os estudos na Alura.  
+[Portfólio github](https://github.com/RobertSilvaAlves)
