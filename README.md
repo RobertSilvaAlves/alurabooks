@@ -75,7 +75,7 @@ Este projeto está licenciado sob a licença MIT.
 
 ---
 
-## 🙋🏻‍♂️ Robert Alves
+## 👤 Desenvolvido por
 
-Feito com dedicação durante os estudos na Alura.  
-[Portfólio github](https://github.com/RobertSilvaAlves)
+**Robert Alves**  
+[GitHub](https://github.com/RobertSilvaAlves)  [LinkedIn](https://www.linkedin.com/in/robertalves-/)
