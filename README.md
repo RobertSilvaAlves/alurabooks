@@ -2,6 +2,10 @@
 # 📚 AluraBooks
 
 Projeto desenvolvido durante o curso da Alura com foco em **HTML**, **CSS** e **responsividade mobile-first**. A proposta foi construir uma interface para a livraria fictícia *AluraBooks*, aplicando conceitos modernos de layout, design responsivo e integração com bibliotecas externas.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Responsivo](https://img.shields.io/badge/RESPONSIVO-SIM-22d4fd?style=for-the-badge)](#)
+[![SwiperJS](https://img.shields.io/badge/SwiperJS-005EFF?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/)
 
 ---
 
