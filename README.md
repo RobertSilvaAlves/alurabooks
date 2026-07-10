@@ -43,7 +43,7 @@ Durante o desenvolvimento deste projeto, foram colocados em prática diversos co
    
 ![Design sem nome](https://github.com/user-attachments/assets/477aac4a-cde0-4ab0-aae8-f3a73d1c91f1)
 
-## 🌐 Acesse o link ➡ [https://robertsilvaalves.github.io/alurabooks/](https://robertsilvaalves.github.io/alurabooks/)
+## 🌐 Acesse o link ➡ ([https://alurabooks-opal-seven.vercel.app/])
 ---
 
 ## 🛠 Tecnologias utilizadas
